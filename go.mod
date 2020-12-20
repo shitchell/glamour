@@ -1,4 +1,4 @@
-module github.com/charmbracelet/glamour
+module github.com/shitchell/glamour
 
 go 1.13
 
