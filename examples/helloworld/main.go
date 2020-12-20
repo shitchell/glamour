@@ -3,14 +3,14 @@ package main
 import (
 	"fmt"
 
-	"github.com/charmbracelet/glamour"
+	"github.com/shitchell/glamour"
 )
 
 func main() {
 	in := `# Hello World
 
 This is a simple example of glamour!
-Check out the [other examples](https://github.com/charmbracelet/glamour/tree/master/examples).
+Check out the [other examples](https://github.com/shitchell/glamour/tree/master/examples).
 
 Bye!
 `
