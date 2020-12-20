@@ -158,6 +158,7 @@ func cascadeStyle(parent StyleBlock, child StyleBlock, toBlock bool) StyleBlock 
 	s.Overlined = parent.Overlined
 	s.Inverse = parent.Inverse
 	s.Blink = parent.Blink
+	s.Format = parent.Format
 
 	if toBlock {
 		s.Indent = parent.Indent
